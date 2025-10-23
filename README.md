@@ -25,7 +25,7 @@ To install this script, follow these steps:
 ![Hover Effects Screenshot](hover_effects_screenshot.png)
 
 ### You can minimize the display by clicking the diamond icon in the top right corner.
-![Minimize Screenshot](minimize_screenshot.png)
+![Minimized Screenshot](minimized_screenshot.png)
 
 ## Support
 
