@@ -39,4 +39,4 @@ If you encounter any issues or have suggestions for improvement, please feel fre
 
 ## License
 
-This project is freely licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is freely available and licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
