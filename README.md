@@ -1,4 +1,4 @@
-# Spelling Bee Word Stats
+# Spelling Bee Live Word Stats
 
 ## Overview
 
@@ -18,7 +18,7 @@ To install this script, follow these steps:
 
 ## Usage
 
-### After installation, the script will automatically display word stats on the Spelling Bee game page!
+### After installation, the script will automatically display real-time word stats on the Spelling Bee game page!
 ![Live Stats Screenshot](live_stats_screenshot.png)
 
 ### Try hovering over the stats to highlight a specific letter and word count!
