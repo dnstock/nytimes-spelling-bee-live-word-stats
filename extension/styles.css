@@ -1,0 +1,83 @@
+#wordstats-menu {
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 9999;
+    width: 35px;
+    background-color: white;
+    min-height: 56px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+#wordstats-menu button {
+    min-height: 22px;
+    width: 100%;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    background-color: #efefef;
+}
+
+#wordstats-menu button:hover {
+    color: #efefef;
+    background-color: #666;
+}
+
+#wordstats-container {
+    position: fixed;
+    overflow: auto;
+    border: 1px solid black;
+    right: 34px;
+    top: 10px;
+    z-index: 99999;
+}
+
+#wordstats-container table {
+    border-collapse: collapse;
+    background-color: white;
+}
+
+#wordstats-container th, #wordstats-container td {
+    height: 22px;
+    width: 60px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#wordstats-container th {
+    border: 1px solid darkgray;
+    border-bottom: 1px solid black;
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+#wordstats-container td {
+    border: 1px solid lightgray;
+}
+
+#wordstats-container .wordstats-footer td {
+    color:#969696;
+    border-top-width: 2px;
+    background-color: #f7f7f7;
+}
+
+#wordstats-container .wordstats-highlight {
+    background-color: yellow;
+}
+
+#wordstats-container .wordstats-highlight .wordstats-letter {
+    font-weight: 700;
+}
+
+#wordstats-container .wordstats-header .wordstats-highlight {
+    background-color: #333!important;
+    border: 1px solid #333!important;
+    border-bottom: 1px solid black!important;
+    color: white;
+}
+
+#wordstats-container .wordstats-footer .wordstats-highlight {
+    background-color: #e3e3e3!important;
+    color: #666!important;
+}

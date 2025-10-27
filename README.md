@@ -2,34 +2,29 @@
 
 ## Overview
 
-This is a custom script that displays live word stats for the [Spelling Bee puzzle game](https://www.nytimes.com/puzzles/spelling-bee) directly on the New York Times website. 
+This is a **feature enhancement** that displays live word stats for the [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) puzzle game directly on the New York Times website. 
 
-It provides real-time word count and other statistics to enhance the Spelling Bee experience, making it easier to track progress and improve vocabulary skills.
+It renders a compact, live-updating table (letters × word lengths + totals) directly on the Spelling Bee page with a small floating menu to toggle visibility. 
+
+This feature adds real-time word counts and other statistics, making it easier to track progress and enhance the Spelling Bee experience.
 
 ## Installation
 
-To install this script, follow these steps:
+There are two ways you can add this feature enhancement:
 
-1. Install the Tampermonkey Chrome extension by visiting [tampermonkey.net](https://www.tampermonkey.net/).
-2. Once Tampermonkey is installed, click the Tampermonkey icon in your browser's toolbar.
-3. Select "Create New Script" and paste the script code into the editor.
-4. Save the script and reload the Spelling Bee game page to see the live word stats.
-5. Enjoy enhanced gameplay with real-time statistics!
+1. [Tampermonkey Script](script/README.md) 
+2. [Browser Extension](extension/README.md)
 
 ## Usage
 
 ### After installation, the script will automatically display real-time word stats on the Spelling Bee game page!
-![Live Stats Screenshot](live_stats_screenshot.png)
+![Live Stats Screenshot](assets/live_stats_screenshot.png)
 
 ### Try hovering over the stats to highlight a specific letter and word count!
-![Hover Effects Screenshot](hover_effects_screenshot.png)
+![Hover Effects Screenshot](assets/hover_effects_screenshot.png)
 
 ### You can minimize the display by clicking the diamond icon in the top right corner.
-![Minimized Screenshot](minimized_screenshot.png)
-
-## Support
-
-If you encounter any issues or have suggestions for improvement, please feel free to open an [issue](https://github.com/dnstock/nytimes-spelling-bee-word-stats/issues) or submit a [pull request](https://github.com/dnstock/nytimes-spelling-bee-word-stats/pulls) on GitHub.
+![Minimized Screenshot](assets/minimized_screenshot.png)
 
 ## Links
 
@@ -37,6 +32,18 @@ If you encounter any issues or have suggestions for improvement, please feel fre
 - [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee)
 - [Tampermonkey](https://www.tampermonkey.net/)
 
+## Contributing
+
+This project is open source and welcomes contributions. You can contribute by reporting bugs, suggesting features, giving feedback, or writing code.
+
+The source code is available on [GitHub](https://github.com/dnstock/amazon-exact-price-filter-extension). The project is maintained by [Dan Harcsztark](https://github.com/dnstock).
+
+[Pull requests](https://github.com/dnstock/amazon-exact-price-filter-extension/pulls) are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Support, Suggestions, Feedback, Etc.
+
+To report bugs or if you encounter issues or have suggestions, please use the [GitHub issue tracker](https://github.com/dnstock/amazon-exact-price-filter-extension/issues).
+
 ## License
 
-This project is freely available and licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is freely available and licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

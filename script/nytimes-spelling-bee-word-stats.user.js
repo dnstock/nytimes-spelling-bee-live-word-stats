@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name         Spelling Bee Word Stats (NYT)
+// @name         Spelling Bee Word Stats (NY Times)
 // @namespace    http://tampermonkey.net/
 // @version      2025-02-22
-// @description  try to take over the world!
-// @author       You
+// @description  Shows live word and letter statistics on the NYTimes Spelling Bee page.
+// @author       Dan Harcsztark (dnstock)
+// @source       https://github.com/dnstock/nytimes-spelling-bee-live-word-stats
 // @match        https://www.nytimes.com/puzzles/spelling-bee*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=nytimes.com
 // @grant        none
