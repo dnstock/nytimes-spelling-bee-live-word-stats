@@ -8,12 +8,12 @@ It renders a compact, live-updating table (letters × word lengths + totals) dir
 
 This feature adds real-time word counts and other statistics, making it easier to track progress and enhance the Spelling Bee experience.
 
-## Installation
+## Installation Instructions
 
 There are two ways you can add this feature enhancement:
 
-1. [Tampermonkey Script](script/README.md) 
-2. [Browser Extension](extension/README.md)
+1. [Browser Extension](extension/README.md) (recommended)
+1. [Tampermonkey Script](script/README.md)
 
 ## Usage
 
@@ -36,13 +36,13 @@ There are two ways you can add this feature enhancement:
 
 This project is open source and welcomes contributions. You can contribute by reporting bugs, suggesting features, giving feedback, or writing code.
 
-The source code is available on [GitHub](https://github.com/dnstock/amazon-exact-price-filter-extension). The project is maintained by [Dan Harcsztark](https://github.com/dnstock).
+The source code is available on [GitHub](https://github.com/dnstock/nytimes-spelling-bee-live-word-stats). The project is maintained by [Dan Harcsztark](https://github.com/dnstock).
 
-[Pull requests](https://github.com/dnstock/amazon-exact-price-filter-extension/pulls) are welcome. For major changes, please open an issue first to discuss what you would like to change.
+[Pull requests](https://github.com/dnstock/nytimes-spelling-bee-live-word-stats/pulls) are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Support, Suggestions, Feedback, Etc.
 
-To report bugs or if you encounter issues or have suggestions, please use the [GitHub issue tracker](https://github.com/dnstock/amazon-exact-price-filter-extension/issues).
+To report bugs or if you encounter issues or have suggestions, please use the [GitHub issue tracker](https://github.com/dnstock/nytimes-spelling-bee-live-word-stats/issues).
 
 ## License
 
