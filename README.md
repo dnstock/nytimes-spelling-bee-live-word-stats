@@ -2,11 +2,11 @@
 
 ## Overview
 
-This is a **feature enhancement** that displays live word stats for the [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) puzzle game directly on the New York Times website. 
+This project provides **feature enhancements** for the [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) puzzle game directly on the New York Times website.
 
-It renders a compact, live-updating table (letters × word lengths + totals) directly on the Spelling Bee page with a small floating menu to toggle visibility. 
+It adds real-time word counts and other statistics, making it easier to track progress and enhance the Spelling Bee experience.
 
-This feature adds real-time word counts and other statistics, making it easier to track progress and enhance the Spelling Bee experience.
+You will get a compact, live-updating table (letters × word lengths + totals) directly on the Spelling Bee page with a small floating menu to toggle visibility.
 
 ## Installation Instructions
 
@@ -17,7 +17,7 @@ There are two ways you can add this feature enhancement:
 
 ## Usage
 
-### After installation, the script will automatically display real-time word stats on the Spelling Bee game page!
+### You will automatically see real-time stats on the Spelling Bee game page.
 ![Live Stats Screenshot](assets/live_stats_screenshot.png)
 
 ### Try hovering over the stats to highlight a specific letter and word count!
